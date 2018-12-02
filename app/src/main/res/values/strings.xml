@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TP1</string>
+
+    <string name="dept_prompt">Choisir un département</string>
+    <string-array name="dept_array">
+        <item>Departement de naissance</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>

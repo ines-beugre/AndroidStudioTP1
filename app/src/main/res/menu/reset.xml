@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item android:id= "@+id/reset"
+        android:title="Effacer les champs"/>
+ <item android:id= "@+id/addNum"
+       android:title="Ajouter un numero de telephone"/>
+ <item android:id= "@+id/wiki"
+     android:title="Ouvrir le departement de naissance dans wiki"/>
+ <item android:id="@+id/displayinfo"
+     android:title="Afficher les informations de la personne"/>
+</menu>
